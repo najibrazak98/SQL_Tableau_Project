@@ -1,2 +1,2 @@
-# SQL And Taleau Project
-sample of my SQL file project
+# SQL And Tableau Project
+sample of my SQL and Tableau file project
